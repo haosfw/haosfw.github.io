@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>传奇发布网站</title>
+    <link>https://haosfw.github.io/</link>
+    <description>最新最全的传奇私服开服信息与游戏攻略</description>
+    <language>zh-CN</language>
+    <atom:link href="https://haosfw.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>新手入坑必看：三分钟看懂单职业与三端版本区别</title>
+      <link>https://haosfw.github.io/a1.html</link>
+      <guid>https://haosfw.github.io/a1.html</guid>
+      <pubDate>Fri, 06 Nov 2026 10:00:00 +0800</pubDate>
+      <description>面对琳琅满目的传奇版本不知如何选择？本文从玩法、爆率、操作三个维度帮你理清单职业与三端互通的核心差异。</description>
+    </item>
+    <item>
+      <title>传奇超变版本怎么玩才爽？这份冲榜攻略请收好</title>
+      <link>https://haosfw.github.io/a2.html</link>
+      <guid>https://haosfw.github.io/a2.html</guid>
+      <pubDate>Thu, 05 Nov 2026 10:00:00 +0800</pubDate>
+      <description>超变版本讲究速度与节奏，掌握这几个关键时间节点，散人也能稳稳冲进全服前十。</description>
+    </item>
+    <item>
+      <title>三端互通传奇真能无缝切换吗？一周实测告诉你真相</title>
+      <link>https://haosfw.github.io/a3.html</link>
+      <guid>https://haosfw.github.io/a3.html</guid>
+      <pubDate>Wed, 04 Nov 2026 10:00:00 +0800</pubDate>
+      <description>本文用一周时间实测主流三端互通版本，从延迟、画质、数据同步三个方面给出客观评价。</description>
+    </item>
+    <item>
+      <title>传奇合击版本英雄搭配指南：战法道如何组合收益最高</title>
+      <link>https://haosfw.github.io/a4.html</link>
+      <guid>https://haosfw.github.io/a4.html</guid>
+      <pubDate>Tue, 03 Nov 2026 10:00:00 +0800</pubDate>
+      <description>合击版本的核心是英雄搭配，不同职业组合释放的合击技能威力天差地别，本文一次讲透。</description>
+    </item>
+    <item>
+      <title>散人玩家如何零氪逆袭？传奇里这五个习惯必须养成</title>
+      <link>https://haosfw.github.io/a5.html</link>
+      <guid>https://haosfw.github.io/a5.html</guid>
+      <pubDate>Mon, 02 Nov 2026 10:00:00 +0800</pubDate>
+      <description>没有充值预算也能玩得爽，关键在于时间管理与资源分配，本文分享五个零氪玩家的必备习惯。</description>
+    </item>
+    <item>
+      <title>传奇攻沙战术全解析：从指挥到站位，沙城之战这样打</title>
+      <link>https://haosfw.github.io/a6.html</link>
+      <guid>https://haosfw.github.io/a6.html</guid>
+      <pubDate>Sun, 01 Nov 2026 10:00:00 +0800</pubDate>
+      <description>攻沙是传奇最经典的团队玩法，本文从指挥分工、职业站位、战术配合三个层面深入解析。</description>
+    </item>
+  </channel>
+</rss>
